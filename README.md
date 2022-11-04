@@ -1,2 +1,2 @@
-# proyecto-jango
-primer proyecto encarado para bases de datos y programacin wed
+# proyecto-django
+primer proyecto encarado para bases de datos y programaciòn wed
